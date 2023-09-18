@@ -1,0 +1,26 @@
+{
+  "name": "simplerenderengine",
+  "version": "1.0.0",
+  "description": "simple-render-engine",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "parser"
+  ],
+  "author": "HeLiJie",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.1"
+  }
+}
